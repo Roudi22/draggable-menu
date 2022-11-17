@@ -1,7 +1,7 @@
 # Draggable-menu
 ![](./screenshot.png)
 
-## Welcome to the repo of the draggable menue 👋
+## Welcome to the repo of the draggable menu 👋
 Simple menue that is responsive and functional on desktops and mobiles.
 
 ## To understand the code 🤓
